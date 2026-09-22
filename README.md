@@ -6,22 +6,32 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 8 |
+| 30 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (3)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (10)
-- [math](#math) (4)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [graph matchings](#graph-matchings) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (20)
+- [math](#math) (9)
 - [number theory](#number-theory) (1)
-- [strings](#strings) (3)
+- [shortest paths](#shortest-paths) (1)
+- [strings](#strings) (5)
 - [two pointers](#two-pointers) (1)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### binary search
 
@@ -33,29 +43,53 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 
 ### math
@@ -63,9 +97,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
 
 ### number theory
 
@@ -73,10 +112,18 @@
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
