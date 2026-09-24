@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 141 | 23 |
+| 142 | 23 |
 
 ---
 
@@ -25,10 +25,10 @@
 - [games](#games) (8)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (44)
+- [greedy](#greedy) (45)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (64)
-- [math](#math) (55)
+- [math](#math) (56)
 - [number theory](#number-theory) (6)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -185,6 +185,7 @@
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
+| 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
@@ -321,6 +322,7 @@
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
+| 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
