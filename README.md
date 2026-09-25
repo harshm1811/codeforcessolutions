@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 144 | 23 |
+| 145 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (10)
 - [brute force](#brute-force) (21)
 - [constructive algorithms](#constructive-algorithms) (16)
@@ -48,6 +48,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 106677B | [Vending Machines](https://codeforces.com/contest/106677/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/106677/B%20-%20Vending%20Machines/solution.cpp) |
 
 ### binary search
