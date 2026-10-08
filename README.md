@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 153 | 23 |
+| 154 | 23 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (11)
-- [brute force](#brute-force) (22)
+- [brute force](#brute-force) (23)
 - [constructive algorithms](#constructive-algorithms) (16)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (8)
@@ -27,7 +27,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (49)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (66)
+- [implementation](#implementation) (67)
 - [math](#math) (56)
 - [number theory](#number-theory) (6)
 - [schedules](#schedules) (1)
@@ -87,6 +87,7 @@
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
@@ -141,6 +142,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
@@ -292,6 +294,7 @@
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/705/A%20-%20Hulk/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
