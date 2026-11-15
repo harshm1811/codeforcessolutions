@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 163 | 23 |
+| 164 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (11)
+- [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (11)
 - [brute force](#brute-force) (24)
 - [constructive algorithms](#constructive-algorithms) (16)
@@ -59,6 +59,7 @@
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
 | 2285A | [Composite Permutation](https://codeforces.com/contest/2285/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/2285/A%20-%20Composite%20Permutation/solution.cpp) |
+| 2285B | [Diverse String](https://codeforces.com/contest/2285/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/2285/B%20-%20Diverse%20String/solution.cpp) |
 | 106677B | [Vending Machines](https://codeforces.com/contest/106677/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/harshm1811/codeforcessolutions/blob/HEAD/106677/B%20-%20Vending%20Machines/solution.cpp) |
 
 ### binary search
